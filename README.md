@@ -1,10 +1,14 @@
-# **Introduction**
+# **Corporate Affairs Commission**
+Analysis of Companies Failing to File Annual Returns: A Detailed Report
+
+
+## **Introduction**
 
 The Corporate Affairs Commission (CAC) of Nigeria plays an important role in regulating business operations in the country, ensuring transparency and accountability through compliance with statutory requirements. One such requirement is the annual return fee, which every registered company must pay to maintain an active status in the corporate registry. The annual return fee is meant to update the CAC on the company’s status, including its financial position, shareholding structure, and overall operations.
 
 Recently, the CAC released a list of companies that have failed to file their annual returns for over a decade, leading to their potential delisting. This report provides a detailed analysis of the available data, including the financial implications and patterns in non-compliance, offering insights into the trends and disparities observed.
 
-# **Methodology**
+## **Methodology**
 
 The analysis is based on the data provided by the CAC and includes an examination of annual return fees over a 10-year period.
 
@@ -16,7 +20,7 @@ To identify inconsistencies, we examined discrepancies between the years provide
 
 Insights were derived by analyzing the proportion of inactive versus active companies, the distribution of delisted companies by decades, and differences between Limited Liability Companies and Public Liability Companies.
 
-# **Key Insights**
+## **Key Insights**
 
 The total number of companies identified was 80,429, with a total annual return fee (for 10 years, excluding late filings) estimated at ₦2.01 billion.
 
